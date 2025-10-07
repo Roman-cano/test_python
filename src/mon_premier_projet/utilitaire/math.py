@@ -10,6 +10,6 @@ def sub(a,b):
     return a-b
 
 def divide(a,b):
-    divide = a/b
+    divide = a/b + a-b
     return divide
 
